@@ -1,0 +1,5 @@
+Pinkman Jessie 25 java gr_326 5.0 4.0
+Ivanov Petr 55 C++ 25
+Kozlov Ivan 42 programmist gr_355 70.0 50.0 How to catch fish Programmist
+van_Dame Jean-Claude 55 Figther 25
+Pushkin Alexander 33 Poet Teacher 33.0 44.0 Writer Universal
